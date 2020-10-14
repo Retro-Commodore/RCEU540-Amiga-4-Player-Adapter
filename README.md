@@ -10,11 +10,11 @@ Optional
 2x jumpers  
   
 The optional part is to enable 5v supply to the joystick (i.e. autofire etc)  
-!(./Pics/pcb.jpg)  
+![pcb](./Pics/pcb.jpg)  
   
 # Casing
 An adapter case is available on [Thingiverse](https://www.thingiverse.com/thing:4112671)  
-!(./Pics/enclosed.jpg)  
+![enclosed](./Pics/enclosed.jpg)  
   
 # Notes
 The adapter is quite stable plugged into the amiga and 2 joysticks connected to it.
